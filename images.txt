@@ -1,2 +1,2 @@
 nginx
-xiaoya_install
+update_xiaoya
