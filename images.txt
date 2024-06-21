@@ -1,2 +1,4 @@
 nginx
 xiaoyaliu/alist
+xiaoya_install
+xiaoya.pro/update_new
