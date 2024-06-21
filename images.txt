@@ -1,2 +1,2 @@
 nginx
-update_xiaoya
+Alist-Tvbox
