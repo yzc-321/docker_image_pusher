@@ -1,2 +1,2 @@
 nginx
-xiaoya/all_in_one
+haroldli/xiaoya-tvbox
