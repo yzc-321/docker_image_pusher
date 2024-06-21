@@ -1,2 +1,2 @@
 nginx
-xiaoya-tvbox
+xiaoya_install
