@@ -1,2 +1,2 @@
 nginx
-Alist-Tvbox
+all_in_one
