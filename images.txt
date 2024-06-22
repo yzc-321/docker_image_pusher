@@ -1,2 +1,2 @@
 nginx
-haroldli/xiaoya-tvbox
+luci-app-mosdns/v5/install
