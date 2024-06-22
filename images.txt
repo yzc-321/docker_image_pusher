@@ -1,2 +1,2 @@
 nginx
-luci-app-mosdns/v5/install
+onething1/wxedge
